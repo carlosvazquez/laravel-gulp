@@ -1,4 +1,4 @@
-## Laravel PHP Framework + Gulp + Bootstrap + SASS
+## Laravel + Gulp + Bootstrap + SASS
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
 [![Total Downloads](https://poser.pugx.org/laravel/framework/downloads.svg)](https://packagist.org/packages/laravel/framework)
