@@ -8,4 +8,4 @@ composer.lock
 Thumbs.db
 .idea/**
 .idea/aviationmex.iml
-.sass-cache
+.sass-cache/
